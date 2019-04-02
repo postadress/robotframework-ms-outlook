@@ -5,5 +5,5 @@ setup(name='robotframework-ms-outlook',
       description='Keywords dealing with MS Outlook',
       author='DPA',
       packages=['MsOutlook'],
-      install_requires=['robotframework==3.1.1','robotframework-csvlibrary==0.0.4', 'extract-msg==0.22.1'],
+      install_requires=['robotframework==3.1.1', 'extract-msg==0.22.1'],
       zip_safe=False)
