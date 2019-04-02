@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/postadress/robotframework-ms-outlook.svg?branch=master)](https://travis-ci.org/postadress/robotframework-ms-outlook)
+
 # robotframework-ms-outlook
 Library for dealing with MS Outlook in Robot Framework
 
